@@ -8,12 +8,3 @@
 # If the value has attributes, Dictionary is on the table. We can find what we want easier.
 # Tuple is like a list, but you don't want to change the value in the list.
 # Compare the difference of data, Set is more convenient.
-
-
-
-
-
-
-
-
-
